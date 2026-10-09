@@ -1,0 +1,37 @@
+{
+  "input": "synthetic demo",
+  "shape": [
+    160,
+    240
+  ],
+  "threshold": 127,
+  "invert": false,
+  "repeats": 7,
+  "different_pixels": 0,
+  "white_pixels_before": 2327,
+  "white_pixels_after": 3919,
+  "native_ms": 34.9135,
+  "opencv_ms": 0.099,
+  "speedup": 352.6616161616161,
+  "equal": true,
+  "samples_ms": {
+    "native": [
+      41.1516,
+      48.0968,
+      37.483,
+      34.9135,
+      29.1262,
+      28.1214,
+      32.845
+    ],
+    "opencv": [
+      0.1068,
+      0.0341,
+      0.099,
+      0.0293,
+      0.1163,
+      0.0368,
+      0.1027
+    ]
+  }
+}
